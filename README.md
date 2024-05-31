@@ -20,8 +20,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa tampilan halaman website :
 
-![Screenshot 2024-05-31 233818](https://github.com/fifovalle/UI-TOMBOL-VERSI-10.0/assets/90078068/27e1f403-82b0-40c1-80a5-4ec766c73f45)
-x`
+![Screenshot 2024-05-31 235334](https://github.com/fifovalle/UI-TOMBOL-VERSI-10.0/assets/90078068/6f0b8a51-c7bf-4eb2-98a3-881aea73ef24)
 
 ## 📬 Kontak
 
